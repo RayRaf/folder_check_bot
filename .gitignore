@@ -1,0 +1,9 @@
+secrets_1.py
+users.db
+bot.db
+users.db-journal
+/venv/
+__pycache__/*
+user_dirs.db.dir
+user_dirs.db.dat
+user_dirs.db.bak
